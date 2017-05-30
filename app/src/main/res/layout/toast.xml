@@ -15,10 +15,11 @@
         android:src="@mipmap/zunba" />
 
     <TextView
+        android:id="@+id/text_toast"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="  Input is canceled  "
-        android:textSize="20sp"
+        android:textSize="23sp"
         android:textColor="#ffffff"
         android:textStyle="bold"
 />
